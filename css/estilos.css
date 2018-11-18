@@ -106,7 +106,7 @@ header{
 }
 /*cabecera con imagen*/
 #cabecera{
-    min-height: 600px;
+    min-height: 400px;
     background: url('../img/portada.jpg') no-repeat;
     text-align: center;
     color: #fff;
@@ -116,7 +116,7 @@ header{
      min-height: 600px;
  }
 #cabecera h1{
-    margin-top: 85px;
+    margin-top: 120px;
     font-size: 95px;
     margin-bottom: 70px;
     
