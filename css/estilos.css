@@ -59,12 +59,12 @@ header{
 }
 .menu a{ 
     color: #fff;
-    font-size: 58px;
+    font-size: 38px;
 }
 .icon-home, .icon-group, .icon-tools, .icon-contacts{
     color: #d3ba53;
     cursor: pointer;
-     font-size: 50px;
+     font-size: 38px;
 }
 #check:checked ~ .menu{
     transform: translateX(0);
