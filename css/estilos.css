@@ -157,6 +157,11 @@ header{
     width: 100px;
    
 }
+#cajas .caja img:hover{
+   box-shadow: 0 0 0 4px #fff,
+	0 15px 200px;
+	transform: scale(1.1);
+}
 /*nosotros lateral*/
 #main-col h1{
     text-align: center;
