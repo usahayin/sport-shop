@@ -158,7 +158,7 @@ header{
    
 }
 #cajas .caja img:hover{
-   box-shadow: 0 0 0 4px #fff,
+   box-shadow: 0 0 0 4px #1221d4;
 	0 15px 200px;
 	transform: scale(1.1);
 }
